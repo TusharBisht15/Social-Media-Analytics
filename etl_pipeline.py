@@ -69,4 +69,4 @@ for _, row in df.iterrows():
 conn.commit()
 cursor.close()
 conn.close()
-print("✅ ETL pipeline executed successfully!")
+print("ETL pipeline executed successfully!")
