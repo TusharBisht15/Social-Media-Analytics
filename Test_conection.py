@@ -7,5 +7,5 @@ conn = psycopg2.connect(
     host="localhost",
     port="5432"
 )
-print("✅ Connected successfully!")
+print("Connected successfully")
 conn.close()
