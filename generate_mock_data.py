@@ -34,4 +34,4 @@ for _ in range(200):
 
 df = pd.DataFrame(data, columns=['platform', 'username', 'content', 'timestamp', 'likes', 'comments', 'shares'])
 df.to_csv('data/social_media_data.csv', index=False)
-print("✅ social_data.csv generated successfully!")
+print("social_data.csv generated successfully!")
