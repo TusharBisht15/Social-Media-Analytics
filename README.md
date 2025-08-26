@@ -1,5 +1,5 @@
 # Clone the repo
-git clone https://github.com/your-username/social-analytics-dashboard.git
+git clone https://github.com/TusharBisht15/Social-Media-Analytics
 cd social-analytics-dashboard
 
 # Install dependencies
