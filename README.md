@@ -9,4 +9,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 # Flow Diagram 
-![Flow Diagram](./flow_diagram _for_ETL.png)
+![Flow Diagram](./flow_diagram_for_ETL.png)
